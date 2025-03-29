@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "orelhassid.npm-install" 
+        {
+            "recommendations": [
+                "orelhassid.npm-install",
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode",
+                "dsznajder.es7-react-js-snippets",
+                "solana-labs.solana",
+                "cweijan.vscode-solana-wallet-adapter",
+                "rangav.vscode-thunder-client",
+                "gruntfuggly.todo-tree"
+            ]
+        }
+        
+
+    ]
+}
